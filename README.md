@@ -1,5 +1,7 @@
 # SMO-Exlaunch-Base
 
+Based on https://github.com/CraftyBoss/SMO-Exlaunch-Base
+
 A base repository using exlaunch-cmake that contains code for modifying Super Mario Odyssey 1.0.
 
 # Notes
